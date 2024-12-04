@@ -1,0 +1,14 @@
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.AssemblyInfoInputs.cache
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.AssemblyInfo.cs
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.csproj.CoreCompileInputs.cache
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\bin\Debug\net8.0\Lesson_33.exe
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\bin\Debug\net8.0\Lesson_33.deps.json
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\bin\Debug\net8.0\Lesson_33.runtimeconfig.json
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\bin\Debug\net8.0\Lesson_33.dll
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\bin\Debug\net8.0\Lesson_33.pdb
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.dll
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\refint\Lesson_33.dll
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.pdb
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\Lesson_33.genruntimeconfig.cache
+C:\Users\zhassulan.suleiman\Desktop\Новая папка (9)\Lesson_33\Lesson_33\obj\Debug\net8.0\ref\Lesson_33.dll
